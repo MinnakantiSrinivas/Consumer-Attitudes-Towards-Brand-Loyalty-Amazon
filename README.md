@@ -1,6 +1,3 @@
-# Consumer-Attitudes-Towards-Brand-Loyalty-Amazon
-
-Here's the revised overview for your GitHub repository:  
 
 ---
 
